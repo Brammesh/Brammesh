@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brammesh
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on cyber security internships 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me brammesh04@gmail.com
 
 <!---
