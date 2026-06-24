@@ -38,7 +38,8 @@ AWS EC2 | AWS S3
 ## 📂 Featured Projects
 
 ### 🎓 Student Result Management System
-A web-based system to manage student results.
+A modern web-based Student Result Management System built using Node.js, Express.js, SQLite, HTML, CSS, and JavaScript. The system provides separate portals for Administrators, Staff/Teachers, and Students to efficiently manage and access academic records and examination results.
+
 
 Tech Stack:
 - PHP
@@ -47,8 +48,8 @@ Tech Stack:
 - CSS
 - JavaScript
 
-### ❤️ Automatic Detection of Heart Failure Using Speech Signals
-Machine Learning project that predicts heart conditions from speech.
+### ❤️ Neural-health-longevity-platform
+A modern AI-powered healthcare assessment platform that combines Heart Sound Analysis, Stress Level Prediction, and Sleep Health & Longevity Assessment into a unified intelligent health monitoring system.
 
 Tech Stack:
 - Python
