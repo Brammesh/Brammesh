@@ -1,7 +1,7 @@
 # Hi 👋, I'm Brammesh R
 
 🎓 Final Year B.E. Computer Science Engineering Student
-📍 Chennai, India
+📍 Tirupathur, India
 💻 Aspiring Full Stack Developer & DevOps Engineer
 
 ---
